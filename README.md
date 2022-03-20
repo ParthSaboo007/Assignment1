@@ -14,4 +14,5 @@ a) Training on original data
 * Evaluation metrics : train_accuracy = 35.19% , val_accuracy = 26.09 % after 20 epochs
 
 b) Data Augmentation (to increase variation in the available dataset)
-* 
+* ![image](https://user-images.githubusercontent.com/66863370/159150470-d188e16f-f758-4045-9ee5-c3e295cad58d.png)
+
