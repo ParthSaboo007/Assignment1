@@ -5,6 +5,9 @@
 * Bounding Box image
 * ![image](https://user-images.githubusercontent.com/66863370/159151420-ce696d6e-fe2a-426b-9dd8-3921307fa190.png)
 
+* Transparent Polygon image
+* ![image](https://user-images.githubusercontent.com/66863370/159151453-f1bc5524-e150-4f6f-98d3-3ba9945e6473.png)
+
 To be written soon......
 
 ## Task 2.1
