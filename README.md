@@ -14,5 +14,10 @@ a) Training on original data
 * Evaluation metrics : train_accuracy = 35.19% , val_accuracy = 26.09 % after 20 epochs
 
 b) Data Augmentation (to increase variation in the available dataset)
+* rotation range = upto 40 degrees
+* shearing_range = 0.2 degree (=slant angle along which image is stretched)
+* zoom_range = 0.2 ( means magnification)
+* horizontal_flip =True // generates images which are randomly horizontally flipped
+* brightness_range = (0.5, 1.5)  // Brightness shift from 0.5 to 1.5
 * ![image](https://user-images.githubusercontent.com/66863370/159150470-d188e16f-f758-4045-9ee5-c3e295cad58d.png)
 
