@@ -11,6 +11,10 @@
 To be written soon......
 
 ## Task 2.1
+
+Notbooks: final_trained_model_on_augmented_data.ipynb -> for final notebook
+        : Original_data_training.ipynb -> original data notebook
+        
 a) Training on original data 
 * Original data: https://www.kaggle.com/anujms/car-damage-detection
 * Class weights : https://drive.google.com/uc?export=download&id=1V1t46Zt5TNaCLoy0lFh5N4KqAK6QWYjs
