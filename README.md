@@ -33,4 +33,7 @@ c) Training on Augmented data
 * Class weigths: https://drive.google.com/uc?export=download&id=1V1t46Zt5TNaCLoy0lFh5N4KqAK6QWYjs
 * Model: same as before
 * Evaluation metrics: Binary accuracy on validation set: 71.64 % (after 20 epochs)
+*            precison =  0.38128249566724437
+            recall =  0.43912175648702595
+            f1-score =  0.40816326530612246
 
