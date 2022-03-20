@@ -2,6 +2,9 @@
 
 ## Task 1.1
 
+* Bounding Box image
+* ![image](https://user-images.githubusercontent.com/66863370/159151420-ce696d6e-fe2a-426b-9dd8-3921307fa190.png)
+
 To be written soon......
 
 ## Task 2.1
